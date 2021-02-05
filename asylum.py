@@ -18,7 +18,8 @@ df = (
       .sort_index(ascending=False)
 )
 
-df.index = pd.to_datetime(df.index)
+df.index = pd.to_datetime(df.index).date
+df = df.iloc[1:]
 
 def getUnique(col):
     lsts = [a.split('; ') for a in df[col]]
