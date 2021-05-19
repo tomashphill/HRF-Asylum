@@ -1,6 +1,6 @@
 # HRF-Asylum
 
-This is a repository containing my core contributions to the **Human Rights First, Asylum** (HRF-Asylum) project, completed in under a month. The link to the main project repository is [here](https://github.com/Lambda-School-Labs/human-rights-first-asylum-ds-a), granted the project owner hasn't removed it in the process of its iteration.
+This is a repository containing my core contributions to the **Human Rights First, Asylum** (HRF-Asylum) project, completed in under a month. The link to the main project repository is [here](https://github.com/Lambda-School-Labs/human-rights-first-asylum-ds-a), granted the project owner hasn't removed it in the process of its iteration. This is an ongoing project, and has no doubt changed a lot since the month that I worked on it.
 
 ### About the project:
 
